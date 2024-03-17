@@ -1,0 +1,4 @@
+ID	Gene.Symbol	Gene.Title	log2(fold change)	-log10(Pvalue)
+11720777_x_at	POLL	polymerase (DNA directed), lambda	0.934	5.966
+11734771_a_at	PHKG2	phosphorylase kinase, gamma 2 (testis)	0.857	5.917
+11748873_x_at	CD33	CD33 molecule	0.754	5.729

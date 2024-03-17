@@ -1,0 +1,30 @@
+ID	Gene.Symbol	Gene.Title	log2(fold change)	-log10(Pvalue)
+11715273_at	TPM2	tropomyosin 2 (beta)	3.11	5.153
+11715274_x_at	TPM2	tropomyosin 2 (beta)	3.109	5.048
+11715708_s_at	MB	myoglobin	3.148	4.645
+11718277_a_at	MYL2	myosin light chain 2	2.805	5.717
+11718628_a_at	BOK	BCL2-related ovarian killer	0.863	6.064
+11719268_at	TNNC1	troponin C type 1 (slow)	2.965	5.08
+11720489_a_at	ACTC1	actin, alpha, cardiac muscle 1	2.034	4.998
+11721183_at	PLPPR4	phospholipid phosphatase related 4	0.895	7.977
+11721253_at	MYLPF	myosin light chain, phosphorylatable, fast skeletal muscle	1.973	4.884
+11722646_a_at	MYL1	myosin light chain 1	3.214	5.652
+11722647_x_at	MYL1	myosin light chain 1	3.541	5.363
+11723681_a_at	USP34	ubiquitin specific peptidase 34	-1.152	4.726
+11724076_a_at	DDX3Y	DEAD (Asp-Glu-Ala-Asp) box helicase 3, Y-linked	-1.309	5.618
+11724077_x_at	DDX3Y	DEAD (Asp-Glu-Ala-Asp) box helicase 3, Y-linked	-1.494	5.145
+11726880_a_at	XIRP2	xin actin binding repeat containing 2	2.383	4.873
+11727239_a_at	C4orf19	chromosome 4 open reading frame 19	1.052	4.706
+11731476_x_at	MYL1	myosin light chain 1	3.196	5.206
+11733056_s_at	PTBP3	polypyrimidine tract binding protein 3	-0.982	4.576
+11733284_x_at	MYBPC1	myosin binding protein C, slow type	2.977	4.622
+11739496_a_at	SLC29A4	solute carrier family 29 (equilibrative nucleoside transporter), member 4	0.838	4.996
+11740715_at	ARIH2OS	ariadne homolog 2 opposite strand	0.681	4.849
+11742897_a_at	MYH2	myosin, heavy chain 2, skeletal muscle, adult	2.638	4.887
+11742898_x_at	MYH2	myosin, heavy chain 2, skeletal muscle, adult	2.566	4.835
+11742943_a_at	CKM	creatine kinase, muscle	2.585	4.59
+11743108_a_at	ACTA1	actin, alpha 1, skeletal muscle	3.884	5.161
+11748029_a_at	TFE3	transcription factor binding to IGHM enhancer 3	0.826	5.109
+11749692_a_at	ACTN2	actinin, alpha 2	1.96	4.618
+11749841_x_at	DDX3Y	DEAD (Asp-Glu-Ala-Asp) box helicase 3, Y-linked	-1.379	4.881
+11752274_a_at	MYH2	myosin, heavy chain 2, skeletal muscle, adult	2.823	5.064
